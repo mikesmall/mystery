@@ -1,7 +1,7 @@
 CHOICES
 
-First Choice: ____
-Second Choice: ____
+First Choice: ____ "Stick with PB&J"
+Second Choice: ____ "Get to work helping"
 Third Choice: ____
 Fourth Choice: ____
 Fifth Choice: ____
