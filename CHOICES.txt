@@ -4,4 +4,4 @@ First Choice: ____ "Stick with PB&J"
 Second Choice: ____ "Get to work helping"
 Third Choice: ____ "Approach Danny"
 Fourth Choice: ____ "Approach Helga and the doctor"
-Fifth Choice: ____
+Fifth Choice: ____ "Listen in on what they're saying"
