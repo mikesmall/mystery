@@ -1,5 +1,6 @@
 CHOICES
 
+<<<<<<< HEAD
 First Choice: ____ "Stick with PB&J"
 Second Choice: ____ "Get to work helping"
 Third Choice: ____ "Approach Danny"
